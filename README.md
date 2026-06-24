@@ -339,12 +339,3 @@ http://localhost:8080
 
 ---
 
-## 👨‍💻 Author
-
-Aditya Singh Senger
-
-LinkedIn:
-[www.linkedin.com/in/aditya-singh-senger-3a982b317](http://www.linkedin.com/in/aditya-singh-senger-3a982b317)
-
-GitHub:
-(Add your GitHub Profile Link)
